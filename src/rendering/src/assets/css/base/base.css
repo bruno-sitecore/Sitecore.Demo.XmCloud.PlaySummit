@@ -25,3 +25,5 @@ a:focus {
 
   line-height: 1;
 }
+
+.ck.ck-editor__editable_inline { overflow: inherit !important; }
