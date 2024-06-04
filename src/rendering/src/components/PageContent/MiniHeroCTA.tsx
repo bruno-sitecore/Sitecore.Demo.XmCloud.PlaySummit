@@ -24,10 +24,10 @@ const MiniHeroCTA = (props: MiniHeroCTAProps): JSX.Element => {
   return (
     <section className={`text-cta ${sxaStyles}`}>
       <div className="">
-        <Text tag="h2" className="" field={props.fields.title} />
-        <Text tag="p" className="" field={props.fields.body} />
-        <Image field={props.fields.image} />
-        <Link field={props.fields.link} />
+        <Text tag="h2" className="" field={props.fields.Title} />
+        <Text tag="p" className="" field={props.fields.Body} />
+        <Image field={props.fields.Image} />
+        <Link field={props.fields.Link} />
       </div>
     </section>
   );
