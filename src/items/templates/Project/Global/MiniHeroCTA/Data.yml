@@ -1,0 +1,20 @@
+﻿---
+ID: "57edb634-3fe2-405c-aa96-618e404e9b8e"
+Parent: "cc83a1ff-57a1-4125-bfc6-330b469a3291"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Global/MiniHeroCTA/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f6548d47-36d5-45c6-8c4a-e0c9d8ac5750"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8289a45-eb20-4517-9069-be4a61663ae3"

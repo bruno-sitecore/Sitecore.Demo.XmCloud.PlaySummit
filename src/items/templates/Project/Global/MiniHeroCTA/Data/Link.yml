@@ -1,0 +1,20 @@
+﻿---
+ID: "75b26bc3-938e-42d7-9c64-bb8b96947d17"
+Parent: "57edb634-3fe2-405c-aa96-618e404e9b8e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Global/MiniHeroCTA/Data/Link
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: General Link
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "00d9e094-00ff-4d0a-882c-c22c5ae9512f"

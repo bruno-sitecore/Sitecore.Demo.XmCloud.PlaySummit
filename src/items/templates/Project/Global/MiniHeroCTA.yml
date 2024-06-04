@@ -1,0 +1,30 @@
+﻿---
+ID: "cc83a1ff-57a1-4125-bfc6-330b469a3291"
+Parent: "fec1fe1d-4d65-4554-b3cd-6899c57e3785"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Global/MiniHeroCTA
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/16x16/document_tag.png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 4300
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{32E3882A-C16B-4287-81CC-EE13433FAF9F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ad81e3d2-5bce-4c0b-b32d-e462510b0ca7"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "310a44ea-9b09-4fa5-b097-ea75e6309821"
