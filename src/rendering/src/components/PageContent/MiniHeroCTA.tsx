@@ -2,7 +2,6 @@ import {
   Text,
   Field,
   ImageField,
-  Image,
   LinkField,
   Link,
   withDatasourceCheck,
@@ -23,10 +22,9 @@ const MiniHeroCTA = (props: MiniHeroCTAProps): JSX.Element => {
 
   return (
     <section className={`sedemo-miniherocta ${sxaStyles}`}>
-      <div className="">
+      <div className="" style={{ backgroundImage: `url(${props.fields.Image.value?.src})` }}>
         <Text tag="h2" className="" field={props.fields.Title} />
         <Text tag="p" className="" field={props.fields.Body} />
-        <Image field={props.fields.Image} />
         <Link className="link-button" field={props.fields.Link} />
       </div>
     </section>
