@@ -11,10 +11,10 @@ import { ComponentProps } from 'lib/component-props';
 
 type MiniHeroCTAProps = ComponentProps & {
   fields: {
-    title: Field<string>;
-    image: ImageField;
-    body: Field<string>;
-    link: LinkField;
+    Title: Field<string>;
+    Image: ImageField;
+    Body: Field<string>;
+    Link: LinkField;
   };
 };
 
