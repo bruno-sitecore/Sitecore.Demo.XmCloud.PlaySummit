@@ -5,6 +5,7 @@ section.sedemo-miniherocta {
   border-radius: 8px;
   background-size: cover;
   width: 100%;
+  margin: 1em 0;
 
   .hero-grid {
     display: grid;
