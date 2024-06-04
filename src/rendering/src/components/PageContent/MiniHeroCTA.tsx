@@ -26,7 +26,7 @@ const MiniHeroCTA = (props: MiniHeroCTAProps): JSX.Element => {
       style={{ backgroundImage: `url(${props.fields.Image.value?.src})` }}
     >
       <div className="hero-grid">
-        <div className="grid-col glassy">
+        <div className="grid-col glassy ">
           <Text tag="h2" className="" field={props.fields.Title} />
           <Text tag="p" className="" field={props.fields.Body} />
           <Link className="button-63" field={props.fields.Link} />
