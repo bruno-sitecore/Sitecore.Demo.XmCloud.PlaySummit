@@ -21,11 +21,16 @@ const MiniHeroCTA = (props: MiniHeroCTAProps): JSX.Element => {
   const sxaStyles = `${props.params?.styles || ''}`;
 
   return (
-    <section className={`sedemo-miniherocta ${sxaStyles}`}>
-      <div className="" style={{ backgroundImage: `url(${props.fields.Image.value?.src})` }}>
-        <Text tag="h2" className="" field={props.fields.Title} />
-        <Text tag="p" className="" field={props.fields.Body} />
-        <Link className="link-button" field={props.fields.Link} />
+    <section
+      className={`sedemo-miniherocta ${sxaStyles}`}
+      style={{ backgroundImage: `url(${props.fields.Image.value?.src})` }}
+    >
+      <div className="hero-grid">
+        <div className="grid-col glassy">
+          <Text tag="h2" className="" field={props.fields.Title} />
+          <Text tag="p" className="" field={props.fields.Body} />
+          <Link className="button-63" field={props.fields.Link} />
+        </div>
       </div>
     </section>
   );
