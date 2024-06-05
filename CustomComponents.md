@@ -1,12 +1,12 @@
 # Walkthrough: Building an SXA Component for Play Summit
 
-This guide provides a basic outline of building a headless SXA component from scratch in the _Play! Summit_ solution. This is _not_ the same as cloning an existing SXA component.
+This guide provides a quick outline of building a headless SXA component from scratch in the _Play! Summit_ solution. This is _not_ the same as cloning an existing SXA component.
 
-You should have the following:
+You should have the following ready:
 
 * an XM Cloud environment
 * a copy/fork of the [**Sitecore.Demo.XMCloud.PlaySummit**](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) repo hooked up to the above XMC environment
-* a `.env.local` file in solution that points to the Preview endpoint of the above XMC environment (see File References section below)
+* a `.env.local` file in solution that points to the Preview endpoint of the above XMC environment (see **File References** section below)
 
 It is recommended that you make these changes to a non-critical XM Cloud environment (i.e. one not used for regular demoes).
 
@@ -16,7 +16,7 @@ It is recommended that you make these changes to a non-critical XM Cloud environ
 
 Add a new data template under: `/sitecore/templates/Project/Global`
 
-* If you create a subfolder, be sure to use that same folder throughout the rest of these steps
+* If you create a subfolder, be sure to use that same folder throughout the rest of these steps (to be consistent in conventions)
 
 Add the fields/datatypes that your component requires.
 
@@ -24,7 +24,7 @@ Add the fields/datatypes that your component requires.
 
 Add a new _Folder_ under: `/sitecore/content/PLAY/playwebsite/Data`
 
-* Update the **icon** to something distinct (optional).
+* Update the **Icon** to something distinct (optional).
 * Configure **Insert Options** to use the data template created in Step 1.
 
 ### 3) Create Rendering Definition Item
@@ -72,7 +72,7 @@ Navigate to the test page you created in XM Cloud. You should see the markup for
 
 Tweak the markup and styling of your component. You can simply refresh your browser to see changes locally.
 
-As you make significant changes, you can push your changes to GitHub and trigger a deployment to make your latest changes.
+As you make significant changes, you can push your changes to GitHub and trigger a deployment to make your latest changes available in the remote XM Cloud environment.
 
 ### 8) Configure SXA Styles (optional)
 
@@ -104,6 +104,8 @@ JSS_EDITING_SECRET=54asfwf2aasd5790asdf
 You can get these values for your specific environment from the XM Cloud Deploy Portal.
 
 ### Sample Component
+
+File name: **MiniHeroCTA.tsx**
 
 ``` react
 import {
