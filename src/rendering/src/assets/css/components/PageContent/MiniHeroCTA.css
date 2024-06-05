@@ -55,7 +55,6 @@ section.sedemo-miniherocta {
     white-space: nowrap;
     cursor: pointer;
     box-shadow: 0 3px 0 #000;
-    
   }
 
   .button-63:hover {
@@ -71,3 +70,31 @@ section.sedemo-miniherocta {
   }
 
 }
+
+/* SXA Style Overrides */
+
+.sedemo-miniherocta.light-glass .glassy {
+  background-color: rgba(255, 255, 255, 0.65);
+
+  h2 {
+    color: #000;
+    text-shadow: 1px 1px 2px #FFF;
+  }
+
+  p {
+    color: #000;
+  }
+}
+
+.sedemo-miniherocta.square-corners {
+  border-radius: 0;
+
+  .glassy {
+    border-radius: 0;
+  }
+
+  .button-63 {
+    border-radius: 0;
+  }
+}
+
