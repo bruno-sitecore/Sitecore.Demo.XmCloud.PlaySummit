@@ -78,7 +78,7 @@ In a terminal, navigate to the following folder of your solution: `\src\renderin
 * Run a build (if you haven't already): `npm run build`
 * Start the local Next server: `npm run next:dev`
 
-Open a browser and navigate to **[https://localhost:3000](https://localhost:3000)**. You should see the _Play! Summit_ website rendered.
+Open a browser and navigate to **[http://localhost:3000](http://localhost:3000)**. You should see the _Play! Summit_ website rendered.
 
 Navigate to the test page you created in XM Cloud. You should see the markup for your component.
 
