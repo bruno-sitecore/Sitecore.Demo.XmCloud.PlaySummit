@@ -6,7 +6,7 @@ You should have the following ready:
 
 * an XM Cloud environment
 * a copy/fork of the [**Sitecore.Demo.XMCloud.PlaySummit**](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) repo hooked up to the above XMC environment
-* a `.env.local` file in solution that points to the Preview endpoint of the above XMC environment (see **File References** section below)
+* a `.env.local` file in your solution that points to the Preview endpoint of the above XMC environment (see [**File References**](#file-references) section below)
 
 It is recommended that you make these changes to a non-critical XM Cloud environment (i.e. one not used for regular demoes).
 
@@ -51,7 +51,15 @@ Create the following two files in the `Sitecore.Demo.XMCloud.PlaySummit` repo:
 
   * Use a consistent folder and component name as above
 
-Implement the Next.js/React component and necessary styling.
+Add an `import` line for your newly-created stylesheet in the `main.css` file, located here: `src\rendering\src\assets\css\main.css`
+
+It should look something like this:
+
+``` text
+@import './components/<FOLDER>/<COMPONENT NAME>.css';
+```
+
+Implement the Next.js/React component and necessary styling. Execute `npm run build` periodically to ensure your component compiles successfully for Next.js.
 
 ### 5) Commit Code to Repo + Deploy
 
@@ -63,7 +71,7 @@ Add your new component to a test page. From here on out, you can tweak the compo
 
 In a terminal, navigate to the following folder of your solution: `\src\rendering\`
 
-* Run a build to register the new component: `npm run build`
+* Run a build (if you haven't already): `npm run build`
 * Start the local Next server: `npm run next:dev`
 
 Open a browser and navigate to **[https://localhost:3000](https://localhost:3000)**. You should see the _Play! Summit_ website rendered.
