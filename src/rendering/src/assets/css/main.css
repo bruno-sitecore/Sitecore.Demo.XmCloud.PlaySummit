@@ -124,6 +124,8 @@
 @import './components/PageContent/ThreeColumnsSection.css';
 @import './components/PageContent/TicketGrid.css';
 
+@import './components/BrunoTest.css';
+
 /* Payment */
 @import './components/Payment/OrderSummary.css';
 @import './components/Payment/PaymentAndBillingForm.css';
