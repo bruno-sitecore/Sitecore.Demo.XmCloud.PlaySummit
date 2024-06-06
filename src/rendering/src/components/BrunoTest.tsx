@@ -1,4 +1,10 @@
-import { Text, Field, ImageField, withDatasourceCheck } from '@sitecore-jss/sitecore-jss-nextjs';
+import {
+  Text,
+  Field,
+  Image,
+  ImageField,
+  withDatasourceCheck,
+} from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 
 type BrunoTestProps = ComponentProps & {
@@ -15,6 +21,7 @@ const BrunoTest = (props: BrunoTestProps): JSX.Element => {
   return (
     <section className={`sedemo-brunotest ${sxaStyles}`}>
       <Text tag="h2" className="" field={props.fields.Title} />
+      <Image tag="p" className="" field={props.fields.Image} />
       <Text tag="p" className="" field={props.fields.Body} />
     </section>
   );

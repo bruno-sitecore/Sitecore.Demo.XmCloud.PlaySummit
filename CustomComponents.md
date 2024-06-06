@@ -39,6 +39,10 @@ Configure the following fields on the new rendering definition item:
 * **Datasource Location**: the folder path created in Step 2
 * **Datasource Template**: path to the template created in Step 1
 
+Navigate to: `/sitecore/content/PLAY/playwebsite/Presentation/Available Renderings`
+
+Under any of the existing sections, add your new Rendering to the list of available  _Renderings_. The **Page Content** section is a good-enough default.
+
 ### 4) Write Component Code in Solution
 
 Create the following two files in the `Sitecore.Demo.XMCloud.PlaySummit` repo:
@@ -65,7 +69,7 @@ Implement the Next.js/React component and necessary styling. Execute `npm run bu
 
 Commit your code changes and push to GitHub. If needed, trigger a deployment to your XM Cloud environment.
 
-Add your new component to a test page. From here on out, you can tweak the component locally without having to push more code.
+Add your new component to a test page. From here on out, you can tweak the component layout/styles locally.
 
 ### 6) Local Development
 
