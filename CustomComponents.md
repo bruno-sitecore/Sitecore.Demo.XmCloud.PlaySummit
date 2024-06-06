@@ -10,6 +10,8 @@ You should have the following ready:
 
 It is recommended that you make these changes to a non-critical XM Cloud environment (i.e. one not used for regular demoes).
 
+## Instructions
+
 **These instructions are for cloud-first development**. All configuration changes will happen in your remote XM Cloud instance, _not_ a local XMC Docker instance.
 
 ### 1) Create Data Template
@@ -64,7 +66,7 @@ In a terminal, navigate to the following folder of your solution: `\src\renderin
 * Run a build to register the new component: `npm run build`
 * Start the local Next server: `npm run next:dev`
 
-Open a browser and navigate to **https://localhost:3000**. You should see the _Play! Summit_ website rendered.
+Open a browser and navigate to **[https://localhost:3000](https://localhost:3000)**. You should see the _Play! Summit_ website rendered.
 
 Navigate to the test page you created in XM Cloud. You should see the markup for your component.
 
@@ -85,7 +87,7 @@ Be sure to implement the styles in the CSS file for your component.
 Finally, you should serialize your component configuration from the remote XM Cloud environment. The default _Play! Summit_ SCS configuration should cover all the items created in this guide.
 
 Detailed instructions are here:
-https://doc.sitecore.com/xmc/en/developers/xm-cloud/synchronize-items-between-remote-and-local-xm-cloud-instances-with-the-sitecore-cli.html
+[https://doc.sitecore.com/xmc/en/developers/xm-cloud/synchronize-items-between-remote-and-local-xm-cloud-instances-with-the-sitecore-cli.html](https://doc.sitecore.com/xmc/en/developers/xm-cloud/synchronize-items-between-remote-and-local-xm-cloud-instances-with-the-sitecore-cli.html)
 
 ## File References
 
@@ -95,7 +97,7 @@ Location: `\src\rendering\.env.local`
 
 Example:
 
-```
+``` text
 SITECORE_EDGE_CONTEXT_ID=1234567890
 SITECORE_SITE_NAME=playwebsite
 JSS_EDITING_SECRET=54asfwf2aasd5790asdf
