@@ -1,0 +1,13 @@
+﻿---
+ID: "c08c499d-df94-4c97-baa1-04def0cb183f"
+Parent: "6cb9dd13-9b4e-40f6-a7d8-da7710547563"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Global/SEDemo/SEHeader/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "238826e2-5515-48fb-ba08-cd4a9b8744b7"

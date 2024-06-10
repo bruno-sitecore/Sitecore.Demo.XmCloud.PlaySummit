@@ -1,0 +1,20 @@
+﻿---
+ID: "88d5a97c-9b01-4146-a6c2-7e26f0ce91fc"
+Parent: "24f77f0a-f909-40f5-a15a-e3dddcf39df4"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/PLAY/playwebsite/Data/SE Demo/Hero CTA
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/files_statically.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{C6A0DAFF-7CC3-4CA7-8B0D-83D6C087E297}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "759636b3-69e8-4aa0-91cc-2007c990cf12"

@@ -1,0 +1,13 @@
+﻿---
+ID: "06829976-fd82-4494-8ad1-5b6cbceac17b"
+Parent: "d876ffec-e6ee-479c-9f3a-a75a67fc4471"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Project/PLAY/SEDemo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e8c9f65b-a48c-4ac6-9b11-dec951cc7924"

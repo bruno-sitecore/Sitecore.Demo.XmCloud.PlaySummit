@@ -1,0 +1,13 @@
+﻿---
+ID: "17f75cef-ab0b-4c6b-9ce1-6a3b1d55fbd0"
+Parent: "c6a0daff-7cc3-4ca7-8b0d-83d6c087e297"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Global/SEDemo/SEHeroCTA/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3d1fe482-8133-4755-8929-dedbe038705d"

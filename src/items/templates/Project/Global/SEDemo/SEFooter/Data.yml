@@ -1,0 +1,13 @@
+﻿---
+ID: "621e1d7c-261f-4b11-a6f7-8832a71ebb17"
+Parent: "6e2ee9da-5abb-4f7a-8d77-7d1b81b53a20"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Global/SEDemo/SEFooter/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a8395a9-1620-4cf4-9823-80e0e4727cb1"

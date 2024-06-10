@@ -1,0 +1,17 @@
+﻿---
+ID: "c6a0daff-7cc3-4ca7-8b0d-83d6c087e297"
+Parent: "d3af1206-5dc0-4e2a-8c9e-c80dfbdf91e6"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Global/SEDemo/SEHeroCTA
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "06a5fc7f-2012-4156-aa1c-8aff022f6461"

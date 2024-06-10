@@ -1,0 +1,20 @@
+﻿---
+ID: "fc3ece51-7ba4-4b0e-83b8-d5924941f2f8"
+Parent: "c08c499d-df94-4c97-baa1-04def0cb183f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Global/SEDemo/SEHeader/Data/Title
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "939f064f-3bb2-47d6-b6fc-fd4959171875"

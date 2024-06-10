@@ -1,0 +1,20 @@
+﻿---
+ID: "935c8c3b-6ee6-4d37-a333-05ff1346e584"
+Parent: "24f77f0a-f909-40f5-a15a-e3dddcf39df4"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/PLAY/playwebsite/Data/SE Demo/Header
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/elements_hierarchy.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{6CB9DD13-9B4E-40F6-A7D8-DA7710547563}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "67cca7ec-0b04-4cdd-8062-5b76d771c5fd"

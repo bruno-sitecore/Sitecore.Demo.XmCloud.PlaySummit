@@ -1,0 +1,20 @@
+﻿---
+ID: "59c5be2b-3c76-4162-bac0-df23b07fc21f"
+Parent: "17f75cef-ab0b-4c6b-9ce1-6a3b1d55fbd0"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Global/SEDemo/SEHeroCTA/Data/Background Video URL
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39771904-2d75-497e-9fe5-1c1095be4227"

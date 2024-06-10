@@ -1,0 +1,20 @@
+﻿---
+ID: "348b75cd-7cfd-4a74-9c84-031a09b040fb"
+Parent: "24f77f0a-f909-40f5-a15a-e3dddcf39df4"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/PLAY/playwebsite/Data/SE Demo/Footer
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/inbox_full.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{6E2EE9DA-5ABB-4F7A-8D77-7D1B81B53A20}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "459d1410-809c-4153-8ff9-3a2f2ff3d280"
