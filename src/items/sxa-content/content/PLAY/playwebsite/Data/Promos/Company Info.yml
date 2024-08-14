@@ -1,0 +1,13 @@
+﻿---
+ID: "5da462e0-b930-4732-8ac0-da892f566d39"
+Parent: "d2e97d8f-4634-41b2-ae8b-2b2d94f2d945"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/PLAY/playwebsite/Data/Promos/Company Info
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be1947cf-0e4f-4c35-8a87-21e558876503"

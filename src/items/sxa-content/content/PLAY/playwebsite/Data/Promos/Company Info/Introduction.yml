@@ -1,0 +1,53 @@
+﻿---
+ID: "a67a0290-be35-4da5-9295-b8a9bd3d0dad"
+Parent: "5da462e0-b930-4732-8ac0-da892f566d39"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/PLAY/playwebsite/Data/Promos/Company Info/Introduction
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f66862d-a5e3-405f-8e3e-b787b4c39b12"
+      Hint: PromoText2
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultrices blandit lorem fermentum accumsan. Cras nec erat egestas, dictum justo eget, eleifend ante.</p><p><br /></p><p>Sed rutrum rhoncus dolor at ullamcorper. Vivamus ultrices lacus condimentum, dignissim justo non, tempor nisi.</p><p><br /></p><p>Nunc aliquet dui ac lobortis efficitur.</p>
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: <p>Play Summit Corporate Information &amp; Legal</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9c990d7b-82da-42a8-bacb-8097040bd920"
+    - ID: "c6e604c3-5371-4e67-83df-a09a5ea66249"
+      Hint: PromoText3
+      Value: <p>Company Info</p>
+    - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
+      Hint: PromoLink
+      Value: |
+        <link linktype="external" url="https://www.google.com" target="" class="" text="View Legal Hub" title=""/>
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="94156736-7bb8-4523-8f0e-9c74d52357a8" />
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: "<p>Informations sur l'entreprise et clause de non-responsabilité du Play&nbsp;Summit</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d0c95017-96ef-434f-8563-f9aa984b9766"
+    - ID: "c6e604c3-5371-4e67-83df-a09a5ea66249"
+      Hint: PromoText3
+      Value: <p>Information d'entreprise</p>
+    - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
+      Hint: PromoLink
+      Value: |
+        <link linktype="external" url="https://www.google.com" target="" class="" text="Voir le hub juridique" title=""/>

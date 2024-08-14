@@ -1,0 +1,13 @@
+﻿---
+ID: "6115806f-4c3b-4776-bd58-c29d22f39d95"
+Parent: "6fc0aba3-620e-5067-a61c-7d4c7163ef11"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/PLAY/playwebsite/media/img/banners
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7674141-1900-428d-b4e6-2534703f87d2"
