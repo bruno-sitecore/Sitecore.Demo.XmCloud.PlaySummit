@@ -8,6 +8,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "0454f4d4-38d7-51cc-a08a-e5c69eed9a5c"
       Hint: RightTitle
       Value: View Vendors
@@ -39,7 +42,7 @@ Languages:
         <image mediaid="{21C5D87C-3E77-4AFA-82FF-665B15EA7806}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6721f569-15be-42b5-9b45-e4379b8343f4"
+      Value: "d7f2dd14-c37a-4f86-a6b8-3c8c5cf8eef6"
     - ID: "a8282684-a5d5-57be-b6f6-a509c6ccdbe3"
       Hint: LeftTitle
       Value: 48 Talks and Workshops

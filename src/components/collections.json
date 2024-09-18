@@ -24,7 +24,7 @@
         "collectionId": "zR51jI-vfn",
         "name": "Promo",
         "description": "",
-        "status": "published",
+        "status": "changed",
         "versionCount": 2,
         "stagedVersionCount": 2,
         "embeddableVersionCount": 1,
@@ -32,16 +32,28 @@
         "createdAt": "2023-05-29T11:31:03.424Z",
         "stagedAt": "2023-08-02T09:22:21.595Z",
         "publishedAt": "2023-08-02T09:22:34.204Z",
-        "modifiedAt": "2023-08-02T09:22:34.204Z",
+        "modifiedAt": "2024-09-17T15:19:40.697Z",
         "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
-          "givenName": "Neli",
-          "familyName": "Kostadinova"
+          "id": "63879cfe973bb5f1125cb4a4",
+          "name": "Brandon Bruno",
+          "email": "brandon.bruno@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/dcf9d986f925b4cafece003aeef39bad?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fbr.png",
+          "givenName": "Brandon",
+          "familyName": "Bruno"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "NIgQ4zdtlQ",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-09-17T15:19:39.931Z",
+            "modifiedAt": "2024-09-17T15:19:39.931Z"
+          }
+        ]
       },
       {
         "libraryId": "generated",
