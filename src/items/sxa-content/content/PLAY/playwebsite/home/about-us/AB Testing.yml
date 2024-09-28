@@ -3,7 +3,6 @@ ID: "69672729-a831-45b2-943c-68bbe5d35c4c"
 Parent: "2717574c-48a0-5469-85a8-a332df71f1e4"
 Template: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
 Path: "/sitecore/content/PLAY/playwebsite/home/about-us/AB Testing"
-BranchID: "757e8bd1-9a5e-416c-ad3f-c7a22981d285"
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
@@ -94,30 +93,30 @@ Languages:
                 name="ds" />
             </r>
             <r
-              uid="{8CC78DBF-FA45-4DB5-B8F6-A0FC7055C780}"
+              uid="{42FC5D68-5F8D-4DA2-958E-188B5C37A97D}"
               p:after="*[1=2]"
               s:ds="b8d0a3df-ce65-4109-89fd-ed43d2f9ae40"
               s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
               s:pt="personalizationTest"
-              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
-              s:ph="/headless-main/sxa-main/container-1/container-3">
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/sxa-main/container-1/container-1">
               <rls>
                 <ruleset
                   s:pet="true">
                   <rule
-                    uid="{5F513481-A11F-4BE0-A878-FCD7083E9DF0}"
-                    s:name="8cc78dbffa454db5b8f6a0fc7055c780_294d03f099754394b6b45cb0adb944d3">
+                    uid="{F89FEE5D-8150-404F-97EB-BD7085B487D9}"
+                    s:name="42fc5d685f8d4da2958e188b5c37a97d_0270b2f74b6e49d594577606f53df754">
                     <conditions>
                       <condition
-                        uid="B14A8BA1C00B417DB4E58D9AF7CD86D6"
+                        uid="4997150EB1D94D9E91913D59BAE9A3A6"
                         s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
-                        s:VariantName="8cc78dbffa454db5b8f6a0fc7055c780_294d03f099754394b6b45cb0adb944d3" />
+                        s:VariantName="42fc5d685f8d4da2958e188b5c37a97d_0270b2f74b6e49d594577606f53df754" />
                     </conditions>
                     <actions>
                       <action
-                        uid="{094E97B2-7608-432F-8869-0D37C3E910E8}"
+                        uid="{A07DFD46-4BE8-4142-8A97-003C3B2B46B8}"
                         s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
-                        s:DataSource="47bdb032-c309-456e-ba0e-7ab9ee577820" />
+                        s:DataSource="6b3575ef-278a-40ed-a236-3a2675aab190" />
                     </actions>
                   </rule>
                   <rule
@@ -125,7 +124,7 @@ Languages:
                     s:name="Default">
                     <conditions>
                       <condition
-                        uid="C91E34D2D46F4EDC92730A0782872F9C"
+                        uid="40CE7A3E0FDC4237BD9351746B3D54AE"
                         s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
                     </conditions>
                   </rule>
@@ -145,7 +144,7 @@ Languages:
       Value: AB Testing
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "625c9ea4-0c16-43a9-a780-b860f26ba204"
+      Value: "9be9c0ee-ebce-4ff7-8eeb-733f35603e9e"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: |

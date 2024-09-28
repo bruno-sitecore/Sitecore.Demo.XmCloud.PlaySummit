@@ -4,8 +4,8 @@
   "ref": "dc6846ec-dbb2-438c-bba5-0b5cd701a5a9",
   "name": "embedded_{scope}_dfda3f2be21143ffb246e513d55788b8_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-09-25T12:38:33.453Z",
-  "revision": 14,
+  "modifiedAt": "2024-09-27T12:04:57.37Z",
+  "revision": 16,
   "archived": false,
   "friendlyId": "embedded_{scope}_dfda3f2be21143ffb246e513d55788b8_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-09-25T12:38:33.473Z",
+    "modifiedAt": "2024-09-27T12:04:57.389Z",
     "splits": [
       {
         "template": "{\"variantId\": \"dd8fb4b6f20a4c5882d86ae374b420e8\"}",
@@ -84,7 +84,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "36b2ae70-7b68-4d10-94c0-39268973958d",
+      "ref": "c84fa469-5505-4d24-9df3-3780de29fd8c",
       "name": "Google Campaign",
       "tasks": [
         {
