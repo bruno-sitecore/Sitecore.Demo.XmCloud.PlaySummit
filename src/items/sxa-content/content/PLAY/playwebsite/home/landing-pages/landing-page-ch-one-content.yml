@@ -22,7 +22,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{BBC18CC9-3600-4143-8C61-0303C1633527}" />
+    <image mediaid="{7ED75311-75DC-44CC-8378-540AED43B8B0}" />
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
@@ -128,7 +128,7 @@ Languages:
       Value: Content Hub ONE Components Example
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5059e550-5fd0-42cb-a77d-c8d43ccad8fd"
+      Value: "873d602d-ae86-4a45-9cd4-fc550a49d74e"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: <p>The list of athletes on this page was created in Sitecore Components Builder and uses Content Hub ONE as a data source.</p>

@@ -4,8 +4,8 @@
   "ref": "f4e99d90-95bb-43fb-91c0-6f4c2a17fe63",
   "name": "embedded_{scope}_68edf2febbdf4c05ab821f5a880e6b78_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-10-14T19:17:33.709Z",
-  "revision": 32,
+  "modifiedAt": "2024-10-15T20:56:21.651Z",
+  "revision": 34,
   "archived": false,
   "friendlyId": "embedded_{scope}_68edf2febbdf4c05ab821f5a880e6b78_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-10-14T19:17:33.728Z",
+    "modifiedAt": "2024-10-15T20:56:21.665Z",
     "splits": [
       {
         "template": "{\"variantId\": \"ee12ae1fa982465598b5d270b963b1d6\"}",
@@ -64,7 +64,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "1258af07-49c5-48fe-b3b5-d4d76a9c0404",
+      "ref": "3a9eb24e-3a15-4bc4-b147-bfe44a94c17d",
       "name": "Visited a specific page",
       "tasks": [
         {
