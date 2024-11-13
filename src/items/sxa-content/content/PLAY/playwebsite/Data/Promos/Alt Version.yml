@@ -1,0 +1,28 @@
+﻿---
+ID: "47bdb032-c309-456e-ba0e-7ab9ee577820"
+Parent: "d2e97d8f-4634-41b2-ae8b-2b2d94f2d945"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/PLAY/playwebsite/Data/Promos/Alt Version
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f66862d-a5e3-405f-8e3e-b787b4c39b12"
+      Hint: PromoText2
+      Value: |
+        <div class="ck-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultrices blandit lorem fermentum accumsan. Cras nec erat egestas, dictum justo eget, eleifend ante. Sed rutrum rhoncus dolor at ullamcorper. Vivamus ultrices lacus condimentum, dignissim justo non, tempor nisi. Nunc aliquet dui ac lobortis efficitur. Maecenas vel lorem nec odio tempus placerat. Vestibulum ligula purus, accumsan eu magna ornare, rutrum lacinia nisl.</p></div>
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: |
+        <div class="ck-content"><p>My oTher variation!</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be4f6056-9dac-4b6b-839f-a9ed6d05e2dc"
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="ec8ee681-3aa9-4786-8eae-30ec8c1ec401" />

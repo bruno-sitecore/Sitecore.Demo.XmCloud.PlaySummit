@@ -1,0 +1,17 @@
+﻿---
+ID: "cef0d170-4a35-496a-9f11-1f720af6b52a"
+Parent: "285effcb-3aa3-4b08-bb44-40314b9fa355"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/PLAY/playwebsite/home/about-us/Our Company/Data"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{CE55A51D-753E-4F2C-9184-B795EF200CBF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f3009ffe-8afe-4edb-81fa-abbd981ab794"

@@ -18,7 +18,8 @@ SharedFields:
   Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
-  Value: 
+  Value: |
+    <image mediaid="{337ADDB7-508D-4DA1-B6FE-BC9202299D9A}" />
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
@@ -116,7 +117,8 @@ Languages:
       Value: Landing Page With Send Form
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7914627d-3310-46fd-af7a-175b65712d38"
+      Value: "a12a0644-c733-4df0-9736-f41d26b24978"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
-      Value: <p>Morbi eu vehicula mi, a congue sapien. Mauris vitae leo lectus. Nam luctus urna molestie massa pellentesque, a porttitor augue varius. Duis dictum nisl metus, non luctus nunc accumsan non. Sed augue libero, condimentum mollis placerat in, tempus ut sapien. Praesent sed purus id sem convallis molestie vitae a ligula. Sed ac sodales velit. Donec fringilla, felis nec luctus auctor, lectus urna lacinia nisl, sit amet viverra eros ipsum eu libero. Nullam tincidunt nisl id magna dictum rhoncus. Aliquam erat volutpat. Duis commodo ante risus, eu lacinia diam porttitor non. Proin faucibus rutrum dolor, non dignissim ligula. Nam facilisis mi vehicula lacus dapibus molestie.</p>
+      Value: |
+        <div class="ck-content"><p>Morbi eu vehicula mi, a congue sapien. Mauris vitae leo lectus. Nam luctus urna molestie massa pellentesque, a porttitor augue varius. Duis dictum nisl metus, non luctus nunc accumsan non. Sed augue libero, condimentum mollis placerat in, tempus ut sapien. Praesent sed purus id sem convallis molestie vitae a ligula. Sed ac sodales velit. Donec fringilla, felis nec luctus auctor, lectus urna lacinia nisl, sit amet viverra eros ipsum eu libero. Nullam tincidunt nisl id magna dictum rhoncus. Aliquam erat volutpat. Duis commodo ante risus, eu lacinia diam porttitor non. Proin faucibus rutrum dolor, non dignissim ligula. Nam facilisis mi vehicula lacus dapibus molestie.</p></div>

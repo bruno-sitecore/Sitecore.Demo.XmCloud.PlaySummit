@@ -1,0 +1,13 @@
+﻿---
+ID: "d5a2d76f-eb3a-4b02-befc-e35ba3445231"
+Parent: "d2dc98d8-43bc-4949-a916-b28ca45ccb00"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/PLAY/test-site/System/2/5"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1453f554-5a52-4305-9ebc-d64f034a646a"
