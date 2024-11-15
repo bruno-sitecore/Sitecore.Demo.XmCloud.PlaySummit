@@ -7,6 +7,9 @@ SharedFields:
 - ID: "1ee576af-ba8e-4312-9fbd-2ccf8395baa1"
   Hint: StartItem
   Value: "{2D1D7ACA-9597-5CA6-85B2-9B04907E4298}"
+- ID: "301e719a-6f65-4874-b565-a953a7b5ac83"
+  Hint: OtherProperties
+  Value: isSiteThumbnailSource=false
 - ID: "6e6da5b0-8d01-4514-b7dd-1940aff3e8cd"
   Hint: FieldLanguageFallback
   Value: 1
@@ -38,4 +41,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "531610d3-e788-4ccd-9c45-d0a05bb7bc88"
+      Value: "7a3d58e2-3f81-4e19-8162-70ebce0f45e5"

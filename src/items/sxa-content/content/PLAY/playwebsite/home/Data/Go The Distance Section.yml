@@ -16,7 +16,7 @@ Languages:
       Value: View Vendors
     - ID: "07d6c7b7-7c29-540b-b602-00b15c377ed2"
       Hint: Title
-      Value: GO THE DISTANCE
+      Value: GO THE distance
     - ID: "0c09865d-f9e6-564a-8dc9-f46c7e49a687"
       Hint: RightLogo
       Value: |
@@ -42,7 +42,7 @@ Languages:
         <image mediaid="{21C5D87C-3E77-4AFA-82FF-665B15EA7806}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d7f2dd14-c37a-4f86-a6b8-3c8c5cf8eef6"
+      Value: "c7ca82f2-d0ba-452f-b1e5-2d849d83746c"
     - ID: "a8282684-a5d5-57be-b6f6-a509c6ccdbe3"
       Hint: LeftTitle
       Value: 48 Talks and Workshops
