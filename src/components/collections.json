@@ -93,7 +93,7 @@
           "dfed4457d760457abec1c0dccdc44381"
         ],
         "createdAt": "2023-05-29T11:31:03.424Z",
-        "stagedAt": "2023-08-02T09:19:21.395Z",
+        "stagedAt": null,
         "publishedAt": "2023-08-02T09:19:29.666Z",
         "modifiedAt": "2024-11-14T17:50:05.423Z",
         "modifiedBy": {
@@ -104,19 +104,7 @@
           "givenName": "Brandon",
           "familyName": "Bruno"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "OT-Dh_gdNR",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-11-14T17:50:05.022Z",
-            "modifiedAt": "2024-11-14T17:50:05.022Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -233,19 +221,7 @@
           "givenName": "Brandon",
           "familyName": "Bruno"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "MCzUv9T7CV",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-11-14T17:44:52.671Z",
-            "modifiedAt": "2024-11-14T17:44:52.671Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -441,19 +417,7 @@
           "givenName": "Brandon",
           "familyName": "Bruno"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "67Sc447R_6",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-11-14T17:46:11.392Z",
-            "modifiedAt": "2024-11-14T17:46:11.392Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   }
