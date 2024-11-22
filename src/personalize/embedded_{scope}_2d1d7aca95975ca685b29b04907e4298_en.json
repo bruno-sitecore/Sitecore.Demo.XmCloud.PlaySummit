@@ -1,11 +1,11 @@
 {
-  "clientKey": "3509a0a2b7cc0542af1e697ea16dafe9",
-  "href": "https://api-us.boxever.com/v3/flowDefinitions/61966e21-1a60-4cc1-97b7-e6e0f21f622e",
-  "ref": "61966e21-1a60-4cc1-97b7-e6e0f21f622e",
+  "clientKey": "84c3696ed849ab686bb60d0058523ef9",
+  "href": "https://api-us.boxever.com/v3/flowDefinitions/7e27d725-afcf-45f7-9d17-d951030a44c6",
+  "ref": "7e27d725-afcf-45f7-9d17-d951030a44c6",
   "name": "embedded_{scope}_2d1d7aca95975ca685b29b04907e4298_en",
-  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-11-21T00:15:11.045Z",
-  "revision": 64,
+  "modifiedByRef": "Ub7x6sEoPLwXjVuenV6Knbn8KanIQMNf@clients",
+  "modifiedAt": "2024-11-21T15:06:02.324Z",
+  "revision": 4,
   "archived": false,
   "friendlyId": "embedded_{scope}_2d1d7aca95975ca685b29b04907e4298_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-11-21T00:15:11.062Z",
+    "modifiedAt": "2024-11-21T15:06:02.341Z",
     "splits": [
       {
         "template": "{\"variantId\": \"445bdf88528b4f90a9553c836d119d04\"}",
@@ -42,7 +42,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "912bc696-5d89-4b8b-9a40-d160ae38605c",
+      "ref": "5d1614de-baac-4b37-b1da-937226b3373e",
       "name": "Completed Questionnaire",
       "tasks": [
         {
@@ -78,7 +78,7 @@
     "startDate": "2024-07-23T17:05:22.235Z"
   },
   "revisions": {
-    "href": "https://api-us.boxever.com/v3/flowDefinitions/61966e21-1a60-4cc1-97b7-e6e0f21f622e/revisions"
+    "href": "https://api-us.boxever.com/v3/flowDefinitions/7e27d725-afcf-45f7-9d17-d951030a44c6/revisions"
   },
   "sampleSizeConfig": {
     "baseValue": 0.15,
