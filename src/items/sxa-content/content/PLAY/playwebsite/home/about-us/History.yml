@@ -93,13 +93,6 @@ Languages:
               <p:da
                 name="ds" />
             </r>
-            <r
-              uid="{008D4A03-F2F5-4D42-A427-D44A97018083}"
-              p:after="*[1=2]"
-              s:ds="b8d0a3df-ce65-4109-89fd-ed43d2f9ae40"
-              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
-              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
-              s:ph="/headless-main/sxa-main/container-1/container-1" />
           </d>
         </r>
     - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
@@ -113,7 +106,7 @@ Languages:
       Value: History
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b85aaafc-879e-4714-aaad-40a89ea97972"
+      Value: "aa165438-293e-4b10-b2d9-7de5d2b57e1c"
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: v2
