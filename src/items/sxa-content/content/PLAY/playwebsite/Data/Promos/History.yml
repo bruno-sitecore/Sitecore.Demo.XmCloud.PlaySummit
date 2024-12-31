@@ -13,16 +13,18 @@ Languages:
       Value: <r />
     - ID: "1f66862d-a5e3-405f-8e3e-b787b4c39b12"
       Hint: PromoText2
-      Value: <p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</strong> Nullam ultrices blandit lorem fermentum accumsan. Cras nec erat egestas, dictum justo eget, eleifend ante. Sed rutrum rhoncus dolor at ullamcorper. Vivamus ultrices lacus condimentum, dignissim justo non, tempor nisi. Nunc aliquet dui ac lobortis efficitur. Maecenas vel lorem nec odio tempus placerat. Vestibulum ligula purus, accumsan eu magna ornare, rutrum lacinia nisl.</p>
+      Value: |
+        <div class="ck-content"><p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</strong> Nullam ultrices blandit lorem fermentum accumsan. Cras nec erat egestas, dictum justo eget, eleifend ante. Sed rutrum rhoncus dolor at ullamcorper.</p></div>
     - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
       Hint: PromoText
       Value: <p>A Rich History of Play Summit</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "29de4b39-c240-4101-92e0-bf4420811fa2"
+      Value: "be6ad929-fc43-4d54-b678-3fba89a5731b"
     - ID: "c6e604c3-5371-4e67-83df-a09a5ea66249"
       Hint: PromoText3
-      Value: <p>Lorem ipsum dolor sit amet</p>
+      Value: |
+        <div class="ck-content"><p>Lorem ipsum dolor sit</p></div>
     - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
       Hint: PromoLink
       Value: |

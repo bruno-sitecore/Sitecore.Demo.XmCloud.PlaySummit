@@ -16,10 +16,11 @@ Languages:
       Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultrices blandit lorem fermentum accumsan. Cras nec erat egestas, dictum justo eget, eleifend ante. Sed rutrum rhoncus dolor at ullamcorper. Vivamus ultrices lacus condimentum, dignissim justo non, tempor nisi. Nunc aliquet dui ac lobortis efficitur. Maecenas vel lorem nec odio tempus placerat. Vestibulum ligula purus, accumsan eu magna ornare, rutrum lacinia nisl.</p>
     - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
       Hint: PromoText
-      Value: "<p>Bringing Play Summit to Mexico in 2023!</p>"
+      Value: |
+        <div class="ck-content"><p>Bringing Play Summit to Mexico in 2025!</p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7f991639-e626-41cc-aa19-599530269095"
+      Value: "782f75a4-393a-48f1-92ef-36304ec18b33"
     - ID: "c6e604c3-5371-4e67-83df-a09a5ea66249"
       Hint: PromoText3
       Value: <p>Coming Soon</p>

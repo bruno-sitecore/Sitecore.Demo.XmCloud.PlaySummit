@@ -1,8 +1,8 @@
 ﻿---
-ID: "14a60ec1-0950-4015-be08-bc5727e11b43"
+ID: "149e0c70-e1a8-4f5f-ae86-e943a16d3018"
 Parent: "d2e97d8f-4634-41b2-ae8b-2b2d94f2d945"
 Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
-Path: /sitecore/content/PLAY/playwebsite/Data/Promos/History Japan
+Path: /sitecore/content/PLAY/playwebsite/Data/Promos/History Demo
 Languages:
 - Language: en
   Versions:
@@ -14,22 +14,23 @@ Languages:
     - ID: "1f66862d-a5e3-405f-8e3e-b787b4c39b12"
       Hint: PromoText2
       Value: |
-        <div class="ck-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultrices blandit lorem fermentum accumsan. Cras nec erat egestas, dictum justo eget, eleifend ante.</p></div>
+        <div class="ck-content"><p><i><strong>Lorem ipsum dolor sit amet</strong></i>, consectetur adipiscing elit. Nullam ultrices blandit lorem fermentum accumsan.</p></div>
     - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
       Hint: PromoText
       Value: |
-        <div class="ck-content"><p>The Leading Japanese Outdoor Expo</p></div>
+        <div class="ck-content"><p>A Rich History of Play Summit</p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0790b890-3bd7-491c-89b0-2f74c256db7b"
+      Value: "5ea65af4-60b8-48b1-9915-3fc0053721f0"
     - ID: "c6e604c3-5371-4e67-83df-a09a5ea66249"
       Hint: PromoText3
-      Value: 
+      Value: |
+        <div class="ck-content"><p>Lorem ipsum dolor sit amet</p></div>
     - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
       Hint: PromoLink
       Value: |
-        <link linktype="external" url="https://www.google.com" target="" class="" text="Learn More" title=""/>
+        <link linktype="external" url="www.sitecore.com" target="" text="Click Here to Learn More" title="" class=""/>
     - ID: "f94b9858-c439-4291-863b-757b536c8b65"
       Hint: PromoIcon
       Value: |
-        <image mediaid="{528A9F67-4C62-4E1A-BFEE-82EB119D99FC}" />
+        <image mediaid="94156736-7bb8-4523-8f0e-9c74d52357a8" />

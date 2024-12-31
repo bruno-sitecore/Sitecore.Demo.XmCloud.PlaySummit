@@ -20,7 +20,7 @@ Languages:
       Value: <p>Learn Why We're the premiere Sporting Expo</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "533e73cb-015f-4b69-8f28-f13a914ebc15"
+      Value: "bdf8962f-28c9-4768-b6d6-379229ef034e"
     - ID: "c6e604c3-5371-4e67-83df-a09a5ea66249"
       Hint: PromoText3
       Value: "<p>New to Play Summit?</p>"
@@ -31,4 +31,4 @@ Languages:
     - ID: "f94b9858-c439-4291-863b-757b536c8b65"
       Hint: PromoIcon
       Value: |
-        <image mediaid="94156736-7bb8-4523-8f0e-9c74d52357a8" />
+        <image mediaid="06174ec1-4543-4a3a-b526-4afbf30f0468" />
