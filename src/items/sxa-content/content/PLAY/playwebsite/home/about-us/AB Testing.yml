@@ -75,8 +75,9 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{3C7C4BD9-3DBD-4DD7-98BB-A479F662AA4B}"
-              s:par="FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles" />
+              uid="{3C7C4BD9-3DBD-4DD7-98BB-A479F662AA4B}">
+              <p:d />
+            </r>
             <r
               uid="{10FC9467-1FE3-465B-9930-3A5E9ECB08DA}">
               <p:d />
@@ -94,7 +95,7 @@ Languages:
             </r>
             <r
               uid="{42FC5D68-5F8D-4DA2-958E-188B5C37A97D}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{26BB3FC5-7C36-4097-A052-2F88D2DFCE74}']"
               s:ds="b8d0a3df-ce65-4109-89fd-ed43d2f9ae40"
               s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
               s:pt="personalizationTest"
@@ -131,6 +132,13 @@ Languages:
                 </ruleset>
               </rls>
             </r>
+            <r
+              uid="{02F00EEC-0D11-42C3-813F-466674A0B9F7}"
+              p:after="*[1=2]"
+              s:ds="46b4444c-6435-4039-aa5d-1582e916b8a2"
+              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/sxa-main/container-1/container-1" />
           </d>
         </r>
     - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
@@ -144,7 +152,7 @@ Languages:
       Value: AB Testing
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9be9c0ee-ebce-4ff7-8eeb-733f35603e9e"
+      Value: "406460e3-1c4e-4dea-9eef-72f340a331c0"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: |

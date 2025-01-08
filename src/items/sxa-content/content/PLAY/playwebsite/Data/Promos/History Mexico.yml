@@ -20,7 +20,7 @@ Languages:
         <div class="ck-content"><p>Bringing Play Summit to Mexico in 2025!</p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "782f75a4-393a-48f1-92ef-36304ec18b33"
+      Value: "dbae1131-7105-44ce-a49c-ae7e1a9dfb8a"
     - ID: "c6e604c3-5371-4e67-83df-a09a5ea66249"
       Hint: PromoText3
       Value: <p>Coming Soon</p>
@@ -31,4 +31,4 @@ Languages:
     - ID: "f94b9858-c439-4291-863b-757b536c8b65"
       Hint: PromoIcon
       Value: |
-        <image mediaid="7071c7ce-784d-434b-bbdb-c3552d5cd116" />
+        <image mediaid="f1fb8bb8-695d-451e-ba9b-7fc1e7817be7" />

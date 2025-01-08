@@ -95,34 +95,12 @@ Languages:
               <p:d />
             </r>
             <r
-              uid="{2ECD18B4-095E-41B7-B431-2014B1DBE4E7}"
+              uid="{5E18AE6D-DEAE-43DE-B1D7-61DF12515349}"
               p:after="*[1=2]"
               s:ds="a67a0290-be35-4da5-9295-b8a9bd3d0dad"
               s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
-              s:pt="personalizationTest"
-              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
-              s:ph="/headless-main/sxa-main/container-1/container-1">
-              <rls>
-                <ruleset
-                  s:pet="true">
-                  <rule
-                    uid="{00000000-0000-0000-0000-000000000000}"
-                    s:name="Default">
-                    <conditions>
-                      <condition
-                        uid="D1A19F10B6464665B9DB6DB716C21D01"
-                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
-                    </conditions>
-                    <actions>
-                      <action
-                        uid="{09119F06-7EE7-4819-BB30-447216CA4DBF}"
-                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
-                        s:DataSource="a4b1fc3d-dc20-44b9-b820-cf869d4103a3" />
-                    </actions>
-                  </rule>
-                </ruleset>
-              </rls>
-            </r>
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-main/container-1/container-1" />
           </d>
         </r>
     - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
@@ -136,7 +114,7 @@ Languages:
       Value: Our Company
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "eec10a9e-5e77-42b9-951c-f4493e41ced4"
+      Value: "cb216648-db90-4b2f-b738-1a8695a8adda"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: |
