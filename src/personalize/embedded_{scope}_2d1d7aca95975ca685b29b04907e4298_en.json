@@ -4,8 +4,8 @@
   "ref": "c1adda4c-ad20-4f45-b5a5-accbbf150fbd",
   "name": "embedded_{scope}_2d1d7aca95975ca685b29b04907e4298_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2025-01-15T13:30:49.939Z",
-  "revision": 4,
+  "modifiedAt": "2025-01-16T13:24:47.43Z",
+  "revision": 6,
   "archived": false,
   "friendlyId": "embedded_{scope}_2d1d7aca95975ca685b29b04907e4298_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-01-15T13:30:49.964Z",
+    "modifiedAt": "2025-01-16T13:24:47.447Z",
     "splits": [
       {
         "template": "{\"variantId\": \"445bdf88528b4f90a9553c836d119d04\"}",
@@ -42,7 +42,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "2b57feae-b9c2-4c21-abd4-9b85e60c16fd",
+      "ref": "8ddbb83a-7518-48db-9ddc-25c237ec67e0",
       "name": "Completed Questionnaire",
       "tasks": [
         {
