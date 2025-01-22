@@ -1,0 +1,423 @@
+{
+  "libraryId": "generated",
+  "id": "V5nDNfp1MS",
+  "name": "CH One - Press Release",
+  "description": "Press Release articles source from an external system (Content Hub ONE).",
+  "sample": {
+    "data": {
+      "allPressRelease": {
+        "total": 3,
+        "results": [
+          {
+            "id": "aQ-pBuPMYkSl0Y5H-S64IQ",
+            "name": "Marketer Interest Moves From Metaverse to Generative AI Adoption",
+            "title": "Marketer Interest Moves From Metaverse to Generative AI Adoption",
+            "subtitle": "Sitecore's research outlines tech expectations for 800 global marketers",
+            "headerImage": {
+              "results": [
+                {
+                  "name": "pr_bg_03.jpg",
+                  "fileType": "image/jpeg",
+                  "fileUrl": "https://mms-delivery.sitecorecloud.io/api/media/v2/delivery/fa27751a-8723-405f-306d-08daade7df23/f9846f76e7024db08d5c518bbf95aa55"
+                }
+              ]
+            },
+            "releaseDate": "2023-06-06T04:00:00Z",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "In mattis ante eu orci imperdiet egestas. "
+                    },
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "In facilisis lobortis lobortis."
+                    },
+                    {
+                      "type": "text",
+                      "text": " Nam elementum, ligula non consectetur congue, libero mauris blandit nisl, id convallis tellus magna ut neque. Donec condimentum in metus non molestie."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Aliquam ipsum nibh, commodo eget odio ut, commodo dignissim nulla. In tempus nulla id laoreet suscipit. Nullam non augue at lectus convallis auctor. Maecenas accumsan, lacus non ultricies pellentesque, nibh lorem posuere odio, sed aliquam odio ligula quis ligula. Nam molestie lectus at augue volutpat, quis volutpat ante tincidunt. Vivamus vel lectus nec lacus elementum blandit eget vehicula est. Nam convallis consectetur elit quis finibus. Nulla aliquam sodales augue, ut egestas diam maximus nec. Praesent a velit velit. Phasellus et tempor nisl."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mauris ut commodo felis. Nullam enim mi, suscipit id tortor sit amet, lobortis condimentum erat. Nulla metus ligula, varius nec vestibulum tincidunt, finibus eget sapien. Donec et mauris eget ex tempus mattis. Integer convallis erat ut erat porta, in tempor dui commodo. Vestibulum a tincidunt magna. Nullam vehicula diam non dui cursus elementum. Duis vitae tincidunt nulla, in bibendum mi. Duis placerat finibus porttitor. Quisque nec leo et urna varius consectetur. Aliquam vel ex felis. Aenean tristique placerat leo, in pulvinar massa porttitor eu. Nullam scelerisque vehicula justo vitae pellentesque. Sed quis posuere erat. Sed aliquam placerat diam, sit amet placerat dolor porttitor eu."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "LJmlTzOso0Oaj0BRNqEOUA",
+            "name": "Sitecore announces 2023 MVPs",
+            "title": "Sitecore announces 2023 MVPs",
+            "subtitle": "Annual award program honors 241 individuals who demonstrated exceptional support for the Sitecore community",
+            "headerImage": {
+              "results": [
+                {
+                  "name": "pr_bg_02.jpg",
+                  "fileType": "image/jpeg",
+                  "fileUrl": "https://mms-delivery.sitecorecloud.io/api/media/v2/delivery/fa27751a-8723-405f-306d-08daade7df23/38290cc7010f4abf8804a138057a1567"
+                }
+              ]
+            },
+            "releaseDate": "2023-06-14T04:00:00Z",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "In mattis ante eu orci imperdiet egestas. In facilisis lobortis lobortis. Nam elementum, ligula non consectetur congue, libero mauris blandit nisl, id convallis tellus magna ut neque. Donec condimentum in metus non molestie."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Aliquam ipsum nibh, commodo eget odio ut, commodo dignissim nulla. In tempus nulla id laoreet suscipit. Nullam non augue at lectus convallis auctor. Maecenas accumsan, lacus non ultricies pellentesque, nibh lorem posuere odio, sed aliquam odio ligula quis ligula. Nam molestie lectus at augue volutpat, quis volutpat ante tincidunt. Vivamus vel lectus nec lacus elementum blandit eget vehicula est. Nam convallis consectetur elit quis finibus. Nulla aliquam sodales augue, ut egestas diam maximus nec. Praesent a velit velit. Phasellus et tempor nisl."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mauris ut commodo felis. Nullam enim mi, suscipit id tortor sit amet, lobortis condimentum erat. Nulla metus ligula, varius nec vestibulum tincidunt, finibus eget sapien. Donec et mauris eget ex tempus mattis. Integer convallis erat ut erat porta, in tempor dui commodo. Vestibulum a tincidunt magna. Nullam vehicula diam non dui cursus elementum. Duis vitae tincidunt nulla, in bibendum mi. Duis placerat finibus porttitor. Quisque nec leo et urna varius consectetur. Aliquam vel ex felis. Aenean tristique placerat leo, in pulvinar massa porttitor eu. Nullam scelerisque vehicula justo vitae pellentesque. Sed quis posuere erat. Sed aliquam placerat diam, sit amet placerat dolor porttitor eu."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "S958Us7dbEO-uTkT2FfQ9g",
+            "name": "Sitecore 2022 Experience Award Winners",
+            "title": "Sitecore 2022 Experience Award Winners",
+            "subtitle": "Winners Revealed at Sitecore Symposium 2022.",
+            "headerImage": {
+              "results": [
+                {
+                  "name": "pr_bg_01.jpg",
+                  "fileType": "image/jpeg",
+                  "fileUrl": "https://mms-delivery.sitecorecloud.io/api/media/v2/delivery/fa27751a-8723-405f-306d-08daade7df23/d44231e76b614333b3608476de4e3f4c"
+                }
+              ]
+            },
+            "releaseDate": "2023-06-20T04:00:00Z",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "In mattis ante eu orci imperdiet egestas. In facilisis lobortis lobortis. Nam elementum, ligula non consectetur congue, libero mauris blandit nisl, id convallis tellus magna ut neque. Donec condimentum in metus non molestie."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Aliquam ipsum nibh, commodo eget odio ut, commodo dignissim nulla. In tempus nulla id laoreet suscipit. Nullam non augue at lectus convallis auctor. Maecenas accumsan, lacus non ultricies pellentesque, nibh lorem posuere odio, sed aliquam odio ligula quis ligula. Nam molestie lectus at augue volutpat, quis volutpat ante tincidunt. Vivamus vel lectus nec lacus elementum blandit eget vehicula est. Nam convallis consectetur elit quis finibus. Nulla aliquam sodales augue, ut egestas diam maximus nec. Praesent a velit velit. Phasellus et tempor nisl."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mauris ut commodo felis. Nullam enim mi, suscipit id tortor sit amet, lobortis condimentum erat. Nulla metus ligula, varius nec vestibulum tincidunt, finibus eget sapien. Donec et mauris eget ex tempus mattis. Integer convallis erat ut erat porta, in tempor dui commodo. Vestibulum a tincidunt magna. Nullam vehicula diam non dui cursus elementum. Duis vitae tincidunt nulla, in bibendum mi. Duis placerat finibus porttitor. Quisque nec leo et urna varius consectetur. Aliquam vel ex felis. Aenean tristique placerat leo, in pulvinar massa porttitor eu. Nullam scelerisque vehicula justo vitae pellentesque. Sed quis posuere erat. Sed aliquam placerat diam, sit amet placerat dolor porttitor eu."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "createdAt": "2025-01-21T19:18:58.225Z",
+  "modifiedAt": "2025-01-21T19:18:58.225Z",
+  "sampledAt": "2025-01-21T19:55:55.384Z",
+  "definition": {
+    "data": {
+      "allPressRelease": {
+        "total": 3,
+        "results": [
+          {
+            "id": "aQ-pBuPMYkSl0Y5H-S64IQ",
+            "name": "Marketer Interest Moves From Metaverse to Generative AI Adoption",
+            "title": "Marketer Interest Moves From Metaverse to Generative AI Adoption",
+            "subtitle": "Sitecore's research outlines tech expectations for 800 global marketers",
+            "headerImage": {
+              "results": [
+                {
+                  "name": "pr_bg_03.jpg",
+                  "fileType": "image/jpeg",
+                  "fileUrl": "https://mms-delivery.sitecorecloud.io/api/media/v2/delivery/fa27751a-8723-405f-306d-08daade7df23/f9846f76e7024db08d5c518bbf95aa55"
+                }
+              ]
+            },
+            "releaseDate": "2023-06-06T04:00:00Z",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "In mattis ante eu orci imperdiet egestas. "
+                    },
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "In facilisis lobortis lobortis."
+                    },
+                    {
+                      "type": "text",
+                      "text": " Nam elementum, ligula non consectetur congue, libero mauris blandit nisl, id convallis tellus magna ut neque. Donec condimentum in metus non molestie."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Aliquam ipsum nibh, commodo eget odio ut, commodo dignissim nulla. In tempus nulla id laoreet suscipit. Nullam non augue at lectus convallis auctor. Maecenas accumsan, lacus non ultricies pellentesque, nibh lorem posuere odio, sed aliquam odio ligula quis ligula. Nam molestie lectus at augue volutpat, quis volutpat ante tincidunt. Vivamus vel lectus nec lacus elementum blandit eget vehicula est. Nam convallis consectetur elit quis finibus. Nulla aliquam sodales augue, ut egestas diam maximus nec. Praesent a velit velit. Phasellus et tempor nisl."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mauris ut commodo felis. Nullam enim mi, suscipit id tortor sit amet, lobortis condimentum erat. Nulla metus ligula, varius nec vestibulum tincidunt, finibus eget sapien. Donec et mauris eget ex tempus mattis. Integer convallis erat ut erat porta, in tempor dui commodo. Vestibulum a tincidunt magna. Nullam vehicula diam non dui cursus elementum. Duis vitae tincidunt nulla, in bibendum mi. Duis placerat finibus porttitor. Quisque nec leo et urna varius consectetur. Aliquam vel ex felis. Aenean tristique placerat leo, in pulvinar massa porttitor eu. Nullam scelerisque vehicula justo vitae pellentesque. Sed quis posuere erat. Sed aliquam placerat diam, sit amet placerat dolor porttitor eu."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "LJmlTzOso0Oaj0BRNqEOUA",
+            "name": "Sitecore announces 2023 MVPs",
+            "title": "Sitecore announces 2023 MVPs",
+            "subtitle": "Annual award program honors 241 individuals who demonstrated exceptional support for the Sitecore community",
+            "headerImage": {
+              "results": [
+                {
+                  "name": "pr_bg_02.jpg",
+                  "fileType": "image/jpeg",
+                  "fileUrl": "https://mms-delivery.sitecorecloud.io/api/media/v2/delivery/fa27751a-8723-405f-306d-08daade7df23/38290cc7010f4abf8804a138057a1567"
+                }
+              ]
+            },
+            "releaseDate": "2023-06-14T04:00:00Z",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "In mattis ante eu orci imperdiet egestas. In facilisis lobortis lobortis. Nam elementum, ligula non consectetur congue, libero mauris blandit nisl, id convallis tellus magna ut neque. Donec condimentum in metus non molestie."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Aliquam ipsum nibh, commodo eget odio ut, commodo dignissim nulla. In tempus nulla id laoreet suscipit. Nullam non augue at lectus convallis auctor. Maecenas accumsan, lacus non ultricies pellentesque, nibh lorem posuere odio, sed aliquam odio ligula quis ligula. Nam molestie lectus at augue volutpat, quis volutpat ante tincidunt. Vivamus vel lectus nec lacus elementum blandit eget vehicula est. Nam convallis consectetur elit quis finibus. Nulla aliquam sodales augue, ut egestas diam maximus nec. Praesent a velit velit. Phasellus et tempor nisl."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mauris ut commodo felis. Nullam enim mi, suscipit id tortor sit amet, lobortis condimentum erat. Nulla metus ligula, varius nec vestibulum tincidunt, finibus eget sapien. Donec et mauris eget ex tempus mattis. Integer convallis erat ut erat porta, in tempor dui commodo. Vestibulum a tincidunt magna. Nullam vehicula diam non dui cursus elementum. Duis vitae tincidunt nulla, in bibendum mi. Duis placerat finibus porttitor. Quisque nec leo et urna varius consectetur. Aliquam vel ex felis. Aenean tristique placerat leo, in pulvinar massa porttitor eu. Nullam scelerisque vehicula justo vitae pellentesque. Sed quis posuere erat. Sed aliquam placerat diam, sit amet placerat dolor porttitor eu."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "S958Us7dbEO-uTkT2FfQ9g",
+            "name": "Sitecore 2022 Experience Award Winners",
+            "title": "Sitecore 2022 Experience Award Winners",
+            "subtitle": "Winners Revealed at Sitecore Symposium 2022.",
+            "headerImage": {
+              "results": [
+                {
+                  "name": "pr_bg_01.jpg",
+                  "fileType": "image/jpeg",
+                  "fileUrl": "https://mms-delivery.sitecorecloud.io/api/media/v2/delivery/fa27751a-8723-405f-306d-08daade7df23/d44231e76b614333b3608476de4e3f4c"
+                }
+              ]
+            },
+            "releaseDate": "2023-06-20T04:00:00Z",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "In mattis ante eu orci imperdiet egestas. In facilisis lobortis lobortis. Nam elementum, ligula non consectetur congue, libero mauris blandit nisl, id convallis tellus magna ut neque. Donec condimentum in metus non molestie."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Aliquam ipsum nibh, commodo eget odio ut, commodo dignissim nulla. In tempus nulla id laoreet suscipit. Nullam non augue at lectus convallis auctor. Maecenas accumsan, lacus non ultricies pellentesque, nibh lorem posuere odio, sed aliquam odio ligula quis ligula. Nam molestie lectus at augue volutpat, quis volutpat ante tincidunt. Vivamus vel lectus nec lacus elementum blandit eget vehicula est. Nam convallis consectetur elit quis finibus. Nulla aliquam sodales augue, ut egestas diam maximus nec. Praesent a velit velit. Phasellus et tempor nisl."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mauris ut commodo felis. Nullam enim mi, suscipit id tortor sit amet, lobortis condimentum erat. Nulla metus ligula, varius nec vestibulum tincidunt, finibus eget sapien. Donec et mauris eget ex tempus mattis. Integer convallis erat ut erat porta, in tempor dui commodo. Vestibulum a tincidunt magna. Nullam vehicula diam non dui cursus elementum. Duis vitae tincidunt nulla, in bibendum mi. Duis placerat finibus porttitor. Quisque nec leo et urna varius consectetur. Aliquam vel ex felis. Aenean tristique placerat leo, in pulvinar massa porttitor eu. Nullam scelerisque vehicula justo vitae pellentesque. Sed quis posuere erat. Sed aliquam placerat diam, sit amet placerat dolor porttitor eu."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "conflictDefinition": null,
+  "type": "internal",
+  "externalSourceId": "generated",
+  "settings": {
+    "params": {},
+    "headers": {
+      "Accept": "application/json",
+      "Content-Type": "application/json",
+      "X-GQL-Token": "b2krd3V3QTlJdnc5TjJRVFpHMVdKUm9tUlBtNGsrbDdoTS91V1VJSm0xND18aGMtc2FsZXMtMy1lYS0zOGVlOA=="
+    },
+    "jsonpath": "$",
+    "method": "POST",
+    "body": {
+      "query": "{\n  allPressRelease\n  {\n    total,\n    results\n    {\n      id,\n      name,\n      title,\n      subtitle,\n      headerImage {\n        results {\n          name,\n          fileType,\n          fileUrl          \n        }\n      }\n      releaseDate,\n      content\n    }\n  }\n}",
+      "variables": {}
+    },
+    "url": "https://content-api.sitecorecloud.io/api/content/v1/preview/graphql/"
+  }
+}
