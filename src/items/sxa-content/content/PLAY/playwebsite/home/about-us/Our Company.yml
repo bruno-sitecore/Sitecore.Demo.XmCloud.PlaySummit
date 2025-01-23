@@ -161,11 +161,11 @@ Languages:
               <p:d />
             </r>
             <r
-              uid="{FBC4BB88-B265-4CE1-82AC-E33C41339179}"
+              uid="{56C605DA-1757-4D7E-B3D6-8DD182AF3655}"
               p:after="*[1=2]"
               s:ds="a67a0290-be35-4da5-9295-b8a9bd3d0dad"
               s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
-              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
               s:ph="/headless-main/sxa-main/container-1/container-1" />
           </d>
         </r>
@@ -177,7 +177,7 @@ Languages:
       Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b6416bae-ceed-4499-a0e6-6c45d5a5a5b2"
+      Value: "49b12efc-21a0-4228-a452-f4c91ad906e7"
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: Our Company FR

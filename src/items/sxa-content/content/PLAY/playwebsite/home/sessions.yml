@@ -59,7 +59,7 @@ Languages:
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
-    Value: Sessions 2
+    Value: Sessions
   Versions:
   - Version: 1
     Fields:
@@ -74,7 +74,7 @@ Languages:
       Value: sessions
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a29bd8ae-f0b3-4961-8d11-857006203b41"
+      Value: "b0ecdd9b-2cab-4e40-a813-48df27a88281"
 - Language: "fr-CA"
   Versions:
   - Version: 1

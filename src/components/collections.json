@@ -419,19 +419,7 @@
           "givenName": "Brandon",
           "familyName": "Bruno"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "XTVWMyTZHj",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-01-21T19:57:39.982Z",
-            "modifiedAt": "2025-01-21T19:57:39.982Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -456,19 +444,7 @@
           "givenName": "Brandon",
           "familyName": "Bruno"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "67Sc447R_6",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-01-21T19:14:41.13Z",
-            "modifiedAt": "2025-01-21T19:14:41.13Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   }
