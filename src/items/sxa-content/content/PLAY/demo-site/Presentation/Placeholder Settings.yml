@@ -1,0 +1,18 @@
+﻿---
+ID: "6ce8898d-f80e-4b49-8626-61bc4431dc47"
+Parent: "70f884c6-4d99-402f-9a26-813dc56c5bd1"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/PLAY/demo-site/Presentation/Placeholder Settings"
+BranchID: "464d8f5a-4cf5-449d-bbe8-9c2005af65e6"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C8F02ED4-0933-4D4D-B1C9-79A58E252BBF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a286d62c-8593-4c5b-a205-21e1e1b45bd9"

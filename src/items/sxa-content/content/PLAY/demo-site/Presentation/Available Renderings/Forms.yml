@@ -1,0 +1,21 @@
+﻿---
+ID: "d31b14e4-1cd7-43a6-8201-693130177566"
+Parent: "f98e1ce9-614d-433e-8df9-af6a824cc46c"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: "/sitecore/content/PLAY/demo-site/Presentation/Available Renderings/Forms"
+BranchID: "7b3936fd-0957-4a49-b613-58f1bfa0e876"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: "{62DD1639-9F28-4040-8738-C886480B2127}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{56779A51-46D2-45FD-8E19-434EF93B759B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fcb403af-6c62-41a8-912e-6b4cb8a62415"

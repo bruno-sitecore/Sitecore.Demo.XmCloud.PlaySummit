@@ -1,0 +1,21 @@
+﻿---
+ID: "c9967885-1271-4f54-b525-a10071b86c40"
+Parent: "281b4b4e-3a66-44e9-a6f4-331460cd24f7"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: "/sitecore/content/PLAY/demo-site/Presentation/Headless Variants/LinkList"
+BranchID: "70519928-c595-4b2b-bb35-75022feecc4c"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/text_align_left.png
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8A535969-7E57-4951-86D3-5E12DBFF31D3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0470d44e-95fe-45bb-807c-c1df3b0d22b3"
