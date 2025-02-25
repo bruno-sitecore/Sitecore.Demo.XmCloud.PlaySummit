@@ -1,196 +1,6 @@
 [
   {
     "libraryId": "generated",
-    "id": "default",
-    "name": "Default collection",
-    "isDefault": true,
-    "orderIdx": "",
-    "createdAt": "2023-03-06T08:07:37.932Z",
-    "modifiedAt": "2023-03-06T08:07:37.932Z",
-    "components": []
-  },
-  {
-    "libraryId": "generated",
-    "id": "zR51jI-vfn",
-    "name": "Static Components",
-    "isDefault": false,
-    "orderIdx": "",
-    "createdAt": "2023-05-29T12:17:01.263Z",
-    "modifiedAt": "2023-05-29T12:17:01.263Z",
-    "components": [
-      {
-        "libraryId": "generated",
-        "id": "NIgQ4zdtlQ",
-        "collectionId": "zR51jI-vfn",
-        "name": "Promo",
-        "description": "",
-        "status": "changed",
-        "versionCount": 2,
-        "stagedVersionCount": 2,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [],
-        "createdAt": "2023-05-29T11:31:03.424Z",
-        "stagedAt": null,
-        "publishedAt": "2023-08-02T09:22:34.204Z",
-        "modifiedAt": "2024-09-17T15:19:40.697Z",
-        "modifiedBy": {
-          "id": "63879cfe973bb5f1125cb4a4",
-          "name": "Brandon Bruno",
-          "email": "brandon.bruno@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/dcf9d986f925b4cafece003aeef39bad?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fbr.png",
-          "givenName": "Brandon",
-          "familyName": "Bruno"
-        },
-        "bundles": []
-      },
-      {
-        "libraryId": "generated",
-        "id": "ngZjAm7L0B",
-        "collectionId": "zR51jI-vfn",
-        "name": "Promo With Benefits",
-        "description": "",
-        "status": "published",
-        "versionCount": 3,
-        "stagedVersionCount": 3,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [],
-        "createdAt": "2023-05-25T07:35:29.551Z",
-        "stagedAt": "2023-08-02T09:21:55.246Z",
-        "publishedAt": "2023-08-02T09:22:14.385Z",
-        "modifiedAt": "2023-08-02T09:22:14.385Z",
-        "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
-          "givenName": "Neli",
-          "familyName": "Kostadinova"
-        },
-        "bundles": []
-      }
-    ]
-  },
-  {
-    "libraryId": "generated",
-    "id": "JYYIXneyeG",
-    "name": "Dynamic Components",
-    "isDefault": false,
-    "orderIdx": "",
-    "createdAt": "2023-05-29T12:20:23.406Z",
-    "modifiedAt": "2023-05-29T12:20:23.406Z",
-    "components": [
-      {
-        "libraryId": "generated",
-        "id": "OT-Dh_gdNR",
-        "collectionId": "JYYIXneyeG",
-        "name": "Dynamic Promo",
-        "description": "",
-        "status": "changed",
-        "versionCount": 2,
-        "stagedVersionCount": 2,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [
-          "dfed4457d760457abec1c0dccdc44381"
-        ],
-        "createdAt": "2023-05-29T11:31:03.424Z",
-        "stagedAt": null,
-        "publishedAt": "2023-08-02T09:19:29.666Z",
-        "modifiedAt": "2024-11-14T17:50:05.423Z",
-        "modifiedBy": {
-          "id": "63879cfe973bb5f1125cb4a4",
-          "name": "Brandon Bruno",
-          "email": "brandon.bruno@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/dcf9d986f925b4cafece003aeef39bad?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fbr.png",
-          "givenName": "Brandon",
-          "familyName": "Bruno"
-        },
-        "bundles": []
-      },
-      {
-        "libraryId": "generated",
-        "id": "FnbXCgP1cr",
-        "collectionId": "JYYIXneyeG",
-        "name": "Session Promo",
-        "description": "",
-        "status": "published",
-        "versionCount": 3,
-        "stagedVersionCount": 3,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [
-          "d8aa73e1c2754eeebb9d333925e51952"
-        ],
-        "createdAt": "2023-06-29T10:20:06.611Z",
-        "stagedAt": "2023-08-02T09:18:50.9Z",
-        "publishedAt": "2023-08-02T12:50:02.717Z",
-        "modifiedAt": "2023-08-02T12:50:02.717Z",
-        "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
-          "givenName": "Neli",
-          "familyName": "Kostadinova"
-        },
-        "bundles": []
-      },
-      {
-        "libraryId": "generated",
-        "id": "KzEssOTo6j",
-        "collectionId": "JYYIXneyeG",
-        "name": "Speaker Promo",
-        "description": "",
-        "status": "published",
-        "versionCount": 4,
-        "stagedVersionCount": 4,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [
-          "819c5f1d58e0432fbd5aa523ba8aebce"
-        ],
-        "createdAt": "2023-05-25T08:12:41.126Z",
-        "stagedAt": "2023-08-02T09:21:31.13Z",
-        "publishedAt": "2023-08-02T09:21:39.373Z",
-        "modifiedAt": "2023-08-02T09:21:39.373Z",
-        "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
-          "givenName": "Neli",
-          "familyName": "Kostadinova"
-        },
-        "bundles": []
-      },
-      {
-        "libraryId": "generated",
-        "id": "EJIWSdccwi",
-        "collectionId": "JYYIXneyeG",
-        "name": "Sponsor Promo",
-        "description": "",
-        "status": "published",
-        "versionCount": 2,
-        "stagedVersionCount": 2,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [
-          "3b884b3054c1464caaddf8bd94e7c38e"
-        ],
-        "createdAt": "2023-05-25T08:12:41.126Z",
-        "stagedAt": "2023-08-02T09:20:47.018Z",
-        "publishedAt": "2023-08-02T09:20:47.018Z",
-        "modifiedAt": "2023-08-02T09:20:47.018Z",
-        "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
-          "givenName": "Neli",
-          "familyName": "Kostadinova"
-        },
-        "bundles": []
-      }
-    ]
-  },
-  {
-    "libraryId": "generated",
     "id": "EfQDdUxRmd",
     "name": "Content",
     "isDefault": false,
@@ -204,22 +14,22 @@
         "collectionId": "EfQDdUxRmd",
         "name": "Teaser",
         "description": "",
-        "status": "changed",
+        "status": "published",
         "versionCount": 2,
         "stagedVersionCount": 2,
-        "embeddableVersionCount": 1,
+        "embeddableVersionCount": 3,
         "datasourceIds": [],
         "createdAt": "2023-06-08T08:45:02.309Z",
-        "stagedAt": "2023-06-08T13:06:57.252Z",
-        "publishedAt": "2023-06-08T12:50:50.669Z",
-        "modifiedAt": "2024-11-13T18:57:00.61Z",
+        "stagedAt": null,
+        "publishedAt": "2023-06-08T13:06:57.252Z",
+        "modifiedAt": "2023-06-08T13:06:57.252Z",
         "modifiedBy": {
-          "id": "63879cfe973bb5f1125cb4a4",
-          "name": "Brandon Bruno",
-          "email": "brandon.bruno@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/dcf9d986f925b4cafece003aeef39bad?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fbr.png",
-          "givenName": "Brandon",
-          "familyName": "Bruno"
+          "id": "62f3ba1cba5df761961e5a78",
+          "name": "Sintija Potaicuka",
+          "email": "sintija.potaicuka@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
+          "givenName": "Sintija",
+          "familyName": "Potaicuka"
         },
         "bundles": []
       },
@@ -235,7 +45,7 @@
         "embeddableVersionCount": 2,
         "datasourceIds": [],
         "createdAt": "2023-06-08T09:12:34.113Z",
-        "stagedAt": "2023-06-08T13:06:24.758Z",
+        "stagedAt": null,
         "publishedAt": "2023-06-08T13:06:24.758Z",
         "modifiedAt": "2023-06-08T13:06:24.758Z",
         "modifiedBy": {
@@ -271,17 +81,10 @@
         "embeddableVersionCount": 2,
         "datasourceIds": [],
         "createdAt": "2023-06-08T09:27:58.572Z",
-        "stagedAt": "2023-06-08T14:31:06.461Z",
+        "stagedAt": null,
         "publishedAt": "2023-06-08T14:31:06.461Z",
-        "modifiedAt": "2023-06-09T10:17:20.928Z",
-        "modifiedBy": {
-          "id": "62f3ba1cba5df761961e5a78",
-          "name": "Sintija Potaicuka",
-          "email": "sintija.potaicuka@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
-          "givenName": "Sintija",
-          "familyName": "Potaicuka"
-        },
+        "modifiedAt": "2025-02-25T13:10:54.657Z",
+        "modifiedBy": {},
         "bundles": []
       },
       {
@@ -296,7 +99,7 @@
         "embeddableVersionCount": 4,
         "datasourceIds": [],
         "createdAt": "2023-06-08T11:36:57.759Z",
-        "stagedAt": "2023-06-08T14:27:31.972Z",
+        "stagedAt": "2023-06-08T14:27:31.971Z",
         "publishedAt": "2023-06-08T14:27:31.972Z",
         "modifiedAt": "2023-06-08T14:27:31.972Z",
         "modifiedBy": {
@@ -313,139 +116,12 @@
   },
   {
     "libraryId": "generated",
-    "id": "2kDkq3aAw3",
-    "name": "BYOCC",
-    "isDefault": false,
-    "orderIdx": "",
-    "createdAt": "2023-08-02T09:23:20.01Z",
-    "modifiedAt": "2023-08-02T09:23:20.01Z",
-    "components": [
-      {
-        "libraryId": "generated",
-        "id": "AopQJ8Q0yN",
-        "collectionId": "2kDkq3aAw3",
-        "name": "Countdown Banner",
-        "description": "",
-        "status": "published",
-        "versionCount": 2,
-        "stagedVersionCount": 2,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [],
-        "createdAt": "2023-07-25T14:32:59.514Z",
-        "stagedAt": "2023-08-03T12:33:41.827Z",
-        "publishedAt": "2023-08-03T12:33:41.827Z",
-        "modifiedAt": "2023-08-03T12:33:41.827Z",
-        "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
-          "givenName": "Neli",
-          "familyName": "Kostadinova"
-        },
-        "bundles": []
-      }
-    ]
-  },
-  {
-    "libraryId": "generated",
-    "id": "-AC8JhQZKV",
-    "name": "Content Hub ONE",
-    "isDefault": false,
-    "orderIdx": "",
-    "createdAt": "2023-11-15T19:58:11.963Z",
-    "modifiedAt": "2023-11-15T19:58:11.963Z",
-    "components": [
-      {
-        "libraryId": "generated",
-        "id": "TlH-4IjNyG",
-        "collectionId": "-AC8JhQZKV",
-        "name": "Athletes",
-        "description": "Sample component featuring Athletes from connected Content Hub ONE instance.",
-        "status": "published",
-        "versionCount": 1,
-        "stagedVersionCount": 1,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [
-          "Athlete"
-        ],
-        "createdAt": "2023-11-15T17:27:04.26Z",
-        "stagedAt": "2023-11-16T18:10:05.908Z",
-        "publishedAt": "2023-11-16T18:10:05.908Z",
-        "modifiedAt": "2023-11-16T18:10:05.908Z",
-        "modifiedBy": {
-          "id": "63ed31bdc5dac322725263de",
-          "name": "Alexander Doroshenko",
-          "email": "alexander.doroshenko@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/df9103e3d366714986d5e437d998bf3d?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fal.png",
-          "givenName": "Alexander",
-          "familyName": "Doroshenko"
-        },
-        "bundles": []
-      }
-    ]
-  },
-  {
-    "libraryId": "generated",
-    "id": "VLpesZMbys",
-    "name": "Demo",
-    "isDefault": false,
-    "orderIdx": "",
-    "createdAt": "2024-11-14T17:45:50.91Z",
-    "modifiedAt": "2024-11-14T17:45:50.91Z",
-    "components": [
-      {
-        "libraryId": "generated",
-        "id": "XTVWMyTZHj",
-        "collectionId": "VLpesZMbys",
-        "name": "Press Release List",
-        "description": "",
-        "status": "changed",
-        "versionCount": 1,
-        "stagedVersionCount": 0,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [
-          "V5nDNfp1MS"
-        ],
-        "createdAt": "2025-01-21T19:57:31.16Z",
-        "stagedAt": null,
-        "publishedAt": null,
-        "modifiedAt": "2025-01-21T20:13:11.498Z",
-        "modifiedBy": {
-          "id": "63879cfe973bb5f1125cb4a4",
-          "name": "Brandon Bruno",
-          "email": "brandon.bruno@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/dcf9d986f925b4cafece003aeef39bad?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fbr.png",
-          "givenName": "Brandon",
-          "familyName": "Bruno"
-        },
-        "bundles": []
-      },
-      {
-        "libraryId": "generated",
-        "id": "67Sc447R_6",
-        "collectionId": "VLpesZMbys",
-        "name": "Hero Demo",
-        "description": "",
-        "status": "changed",
-        "versionCount": 1,
-        "stagedVersionCount": 0,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [],
-        "createdAt": "2024-11-14T17:45:57.389Z",
-        "stagedAt": null,
-        "publishedAt": null,
-        "modifiedAt": "2025-01-21T19:18:32.734Z",
-        "modifiedBy": {
-          "id": "63879cfe973bb5f1125cb4a4",
-          "name": "Brandon Bruno",
-          "email": "brandon.bruno@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/dcf9d986f925b4cafece003aeef39bad?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fbr.png",
-          "givenName": "Brandon",
-          "familyName": "Bruno"
-        },
-        "bundles": []
-      }
-    ]
+    "id": "default",
+    "name": "Default collection",
+    "isDefault": true,
+    "orderIdx": null,
+    "createdAt": "2023-06-28T12:45:53.685Z",
+    "modifiedAt": "2023-06-28T12:45:53.685Z",
+    "components": []
   }
 ]
