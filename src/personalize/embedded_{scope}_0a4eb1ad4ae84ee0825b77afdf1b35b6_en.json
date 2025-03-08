@@ -1,11 +1,11 @@
 {
-  "clientKey": "84c3696ed849ab686bb60d0058523ef9",
-  "href": "https://api-us.boxever.com/v3/flowDefinitions/dc802451-7314-4693-bcb3-43261be65e74",
-  "ref": "dc802451-7314-4693-bcb3-43261be65e74",
+  "clientKey": "3509a0a2b7cc0542af1e697ea16dafe9",
+  "href": "https://api-us.boxever.com/v3/flowDefinitions/3748979f-6dbb-4303-8eda-0ac85906569a",
+  "ref": "3748979f-6dbb-4303-8eda-0ac85906569a",
   "name": "embedded_{scope}_0a4eb1ad4ae84ee0825b77afdf1b35b6_en",
-  "modifiedByRef": "Ub7x6sEoPLwXjVuenV6Knbn8KanIQMNf@clients",
-  "modifiedAt": "2025-03-03T14:09:58.489Z",
-  "revision": 4,
+  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
+  "modifiedAt": "2025-03-07T14:34:34.13Z",
+  "revision": 30,
   "archived": false,
   "friendlyId": "embedded_{scope}_0a4eb1ad4ae84ee0825b77afdf1b35b6_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-03-03T14:09:58.509Z",
+    "modifiedAt": "2025-03-07T14:34:34.156Z",
     "splits": [
       {
         "template": "{\"variantId\": \"963b712d3e3846af9508be6cad1ce529\"}",
@@ -45,7 +45,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "6e470bf8-973f-4d6c-bc40-a788542e5c53",
+      "ref": "880973b8-18cb-477d-a31c-bb6078e87809",
       "name": "New Visitor",
       "tasks": [
         {
@@ -81,7 +81,7 @@
     "startDate": "2024-12-31T14:53:42.038Z"
   },
   "revisions": {
-    "href": "https://api-us.boxever.com/v3/flowDefinitions/dc802451-7314-4693-bcb3-43261be65e74/revisions"
+    "href": "https://api-us.boxever.com/v3/flowDefinitions/3748979f-6dbb-4303-8eda-0ac85906569a/revisions"
   },
   "sampleSizeConfig": {
     "baseValue": 0.15,
