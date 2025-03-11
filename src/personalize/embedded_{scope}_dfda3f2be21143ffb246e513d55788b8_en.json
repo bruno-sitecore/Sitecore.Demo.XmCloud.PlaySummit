@@ -4,8 +4,8 @@
   "ref": "aaa23ea9-5a29-45b8-bb1d-f83815adc1b0",
   "name": "embedded_{scope}_dfda3f2be21143ffb246e513d55788b8_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2025-03-07T14:34:35.357Z",
-  "revision": 30,
+  "modifiedAt": "2025-03-10T19:05:32.045Z",
+  "revision": 32,
   "archived": false,
   "friendlyId": "embedded_{scope}_dfda3f2be21143ffb246e513d55788b8_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-03-07T14:34:35.366Z",
+    "modifiedAt": "2025-03-10T19:05:32.061Z",
     "splits": [
       {
         "template": "{\"variantId\": \"dd8fb4b6f20a4c5882d86ae374b420e8\"}",
@@ -84,7 +84,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "f35c1ec6-e53e-4a5d-b28f-a00859afd74a",
+      "ref": "f475c7b3-3203-4e3d-bb50-4de34b124fe1",
       "name": "LinkedIn Campaign",
       "tasks": [
         {
